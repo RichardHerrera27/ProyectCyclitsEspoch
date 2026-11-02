@@ -1,0 +1,5 @@
+package ec.espoch.edu.proyectociclista.interfaz;
+
+public interface InterfazSprintersDAO {
+
+}
